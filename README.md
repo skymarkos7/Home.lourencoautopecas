@@ -1,6 +1,6 @@
-# vectis
+# Kino - auto peças
 
-Página empresarial para demonstração de serviços de contabilidade e possibilitar contato
+Página empresarial para demonstração de serviços de AUTO PEÇAS e possibilitar contato
 
 ### Recommended IDE Setup
 
